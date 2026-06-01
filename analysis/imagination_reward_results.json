@@ -1,0 +1,1018 @@
+{
+  "baseline_s1": {
+    "dt=1": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 1.586846023797989,
+          "std_reward_pred": 0.725169454530662,
+          "mean_value_est": 662.5468872070312,
+          "std_value_est": 8.928468427618034
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 1.5881070494651794,
+          "std_reward_pred": 0.7160403442821622,
+          "mean_value_est": 662.8874664306641,
+          "std_value_est": 9.156111033419203
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 1.6136195719242097,
+          "std_reward_pred": 0.6918407400437162,
+          "mean_value_est": 663.4243927001953,
+          "std_value_est": 8.234254278330331
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 1.6277298986911775,
+          "std_reward_pred": 0.6822151130188383,
+          "mean_value_est": 663.893588256836,
+          "std_value_est": 7.418657601807571
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 1.6641668379306793,
+          "std_reward_pred": 0.6293280860110223,
+          "mean_value_est": 664.3554962158203,
+          "std_value_est": 6.709360149067808
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 1.7451897382736206,
+          "std_reward_pred": 0.5837510089097675,
+          "mean_value_est": 664.7742065429687,
+          "std_value_est": 5.914458561615057
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 1.7784622967243195,
+          "std_reward_pred": 0.5657839442435921,
+          "mean_value_est": 665.0178894042969,
+          "std_value_est": 5.500066031928619
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 1.7657705962657928,
+          "std_reward_pred": 0.5503043124080814,
+          "mean_value_est": 665.0741577148438,
+          "std_value_est": 5.155348394058192
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 1.7897415637969971,
+          "std_reward_pred": 0.5329563318401124,
+          "mean_value_est": 665.3724945068359,
+          "std_value_est": 4.791737378906831
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 1.807408517599106,
+          "std_reward_pred": 0.5108969370407731,
+          "mean_value_est": 665.6912445068359,
+          "std_value_est": 3.856109583095167
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 1.8239305436611175,
+          "std_reward_pred": 0.48398848749496365,
+          "mean_value_est": 665.9339752197266,
+          "std_value_est": 3.34586925366242
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 1.8646985411643981,
+          "std_reward_pred": 0.4115323455718736,
+          "mean_value_est": 666.044091796875,
+          "std_value_est": 3.1250053796364257
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 1.8935966193675995,
+          "std_reward_pred": 0.39971890613912214,
+          "mean_value_est": 666.1361999511719,
+          "std_value_est": 2.8686113976660845
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 1.8967073261737823,
+          "std_reward_pred": 0.39325065775005363,
+          "mean_value_est": 666.2403930664062,
+          "std_value_est": 2.426067149733918
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 1.8912834703922272,
+          "std_reward_pred": 0.41166317502650074,
+          "mean_value_est": 666.2728088378906,
+          "std_value_est": 2.223593002427035
+        }
+      ],
+      "overall_mean_reward": 1.7558172396818796,
+      "overall_std_reward": 0.5747394289487702,
+      "cumulative_reward_at_H": 26.337258595228192,
+      "initial_value": 662.5468872070312,
+      "final_value": 666.2728088378906
+    }
+  },
+  "exp_008d": {
+    "dt=1": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 0.5923265039920806,
+          "std_reward_pred": 0.46969372814801974,
+          "mean_value_est": 162.4171226501465,
+          "std_value_est": 4.808282688900931
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 0.5930006504058838,
+          "std_reward_pred": 0.4568648950580643,
+          "mean_value_est": 162.7670654296875,
+          "std_value_est": 4.7054794900851515
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 0.5887127101421357,
+          "std_reward_pred": 0.4478184796756649,
+          "mean_value_est": 162.2503463745117,
+          "std_value_est": 4.76502378359794
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 0.552221155166626,
+          "std_reward_pred": 0.43703318799269014,
+          "mean_value_est": 162.35006866455078,
+          "std_value_est": 4.162972772959997
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 0.5003109753131867,
+          "std_reward_pred": 0.412978776812526,
+          "mean_value_est": 161.50263671875,
+          "std_value_est": 4.442470222019595
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 0.4718534409999847,
+          "std_reward_pred": 0.4038283652737216,
+          "mean_value_est": 161.8400436401367,
+          "std_value_est": 4.436327033352369
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 0.4402416169643402,
+          "std_reward_pred": 0.37602954959452967,
+          "mean_value_est": 161.55783767700194,
+          "std_value_est": 4.862535279202093
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 0.43186673521995544,
+          "std_reward_pred": 0.3832124397919587,
+          "mean_value_est": 161.24977798461913,
+          "std_value_est": 4.887542156882623
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 0.41148929595947265,
+          "std_reward_pred": 0.37222445339124743,
+          "mean_value_est": 161.95847091674804,
+          "std_value_est": 5.12636124623872
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 0.40338823199272156,
+          "std_reward_pred": 0.37455261275921325,
+          "mean_value_est": 161.69789352416993,
+          "std_value_est": 5.7201145198901635
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 0.39721201062202455,
+          "std_reward_pred": 0.3639874468632558,
+          "mean_value_est": 161.55580291748046,
+          "std_value_est": 5.405966512211217
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 0.3906192481517792,
+          "std_reward_pred": 0.34261692488966267,
+          "mean_value_est": 161.12522048950194,
+          "std_value_est": 5.482397297651206
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 0.3962929368019104,
+          "std_reward_pred": 0.34474335430627023,
+          "mean_value_est": 160.35908966064454,
+          "std_value_est": 5.504497095884157
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 0.3930033206939697,
+          "std_reward_pred": 0.33695622242659573,
+          "mean_value_est": 160.202547454834,
+          "std_value_est": 5.459623020749743
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 0.3704895615577698,
+          "std_reward_pred": 0.33690674197824516,
+          "mean_value_est": 160.39148712158203,
+          "std_value_est": 5.431030671001846
+        }
+      ],
+      "overall_mean_reward": 0.46220189293225605,
+      "overall_std_reward": 0.400947441877992,
+      "cumulative_reward_at_H": 6.933028393983842,
+      "initial_value": 162.4171226501465,
+      "final_value": 160.39148712158203
+    },
+    "dt=2": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 0.5923265039920806,
+          "std_reward_pred": 0.46969372814801974,
+          "mean_value_est": 162.4171226501465,
+          "std_value_est": 4.808282688900931
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 0.8062565982341766,
+          "std_reward_pred": 0.5421276658793465,
+          "mean_value_est": 163.08485412597656,
+          "std_value_est": 4.959983990067959
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 0.9888689994812012,
+          "std_reward_pred": 0.642749273505156,
+          "mean_value_est": 162.82775192260743,
+          "std_value_est": 4.459290778473045
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 1.279075014591217,
+          "std_reward_pred": 0.738715523480379,
+          "mean_value_est": 162.94456481933594,
+          "std_value_est": 3.8978354573627927
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 1.3961140096187592,
+          "std_reward_pred": 0.8036753492416716,
+          "mean_value_est": 162.95647888183595,
+          "std_value_est": 4.343795393107447
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 1.5111033737659454,
+          "std_reward_pred": 0.8518546403889667,
+          "mean_value_est": 162.68307800292968,
+          "std_value_est": 3.9870033462389407
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 1.6366402864456178,
+          "std_reward_pred": 0.884175287890531,
+          "mean_value_est": 162.69119262695312,
+          "std_value_est": 4.19336028637352
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 1.7012915194034577,
+          "std_reward_pred": 0.9006393096226631,
+          "mean_value_est": 163.05525283813478,
+          "std_value_est": 3.981885331203084
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 1.660408228635788,
+          "std_reward_pred": 0.7671327046155867,
+          "mean_value_est": 163.0555847167969,
+          "std_value_est": 3.8411655295028
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 1.655086135864258,
+          "std_reward_pred": 0.713203722954231,
+          "mean_value_est": 162.98974227905273,
+          "std_value_est": 3.996229565285268
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 1.7297217190265655,
+          "std_reward_pred": 0.7271428925064654,
+          "mean_value_est": 162.80552825927734,
+          "std_value_est": 3.7131949120517396
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 1.6153039515018464,
+          "std_reward_pred": 0.7571797709338851,
+          "mean_value_est": 162.25763702392578,
+          "std_value_est": 3.9604884919227095
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 1.5968169450759888,
+          "std_reward_pred": 0.7401154663697344,
+          "mean_value_est": 161.52855529785157,
+          "std_value_est": 3.930894926377002
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 1.3535933554172517,
+          "std_reward_pred": 0.6321227663961337,
+          "mean_value_est": 161.32771987915038,
+          "std_value_est": 3.789764989860755
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 1.263986486196518,
+          "std_reward_pred": 0.5956552302693702,
+          "mean_value_est": 161.6797721862793,
+          "std_value_est": 4.0167714447600344
+        }
+      ],
+      "overall_mean_reward": 1.3857728751500447,
+      "overall_std_reward": 0.8012962763907815,
+      "cumulative_reward_at_H": 20.786593127250676,
+      "initial_value": 162.4171226501465,
+      "final_value": 161.6797721862793
+    },
+    "dt=3": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 0.5923265039920806,
+          "std_reward_pred": 0.46969372814801974,
+          "mean_value_est": 162.4171226501465,
+          "std_value_est": 4.808282688900931
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 0.6539740920066833,
+          "std_reward_pred": 0.468726065671375,
+          "mean_value_est": 162.18947982788086,
+          "std_value_est": 4.671334948777889
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 0.7311835289001465,
+          "std_reward_pred": 0.5193483904974322,
+          "mean_value_est": 162.5494613647461,
+          "std_value_est": 4.404326040760549
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 0.7788946449756622,
+          "std_reward_pred": 0.5185676264167489,
+          "mean_value_est": 162.95771179199218,
+          "std_value_est": 4.228504589884633
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 0.8203869998455048,
+          "std_reward_pred": 0.5520089652549921,
+          "mean_value_est": 162.59155502319337,
+          "std_value_est": 4.190361142523775
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 0.8513793051242828,
+          "std_reward_pred": 0.5783808485682579,
+          "mean_value_est": 162.56017532348633,
+          "std_value_est": 4.111735384873756
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 0.8278861224651337,
+          "std_reward_pred": 0.49855104971294395,
+          "mean_value_est": 162.12922897338868,
+          "std_value_est": 4.011705989937709
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 0.8677238702774048,
+          "std_reward_pred": 0.47098233734894374,
+          "mean_value_est": 161.53062210083007,
+          "std_value_est": 4.087458814918742
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 0.8686271250247956,
+          "std_reward_pred": 0.5083113092632094,
+          "mean_value_est": 161.97251663208007,
+          "std_value_est": 4.567245828940584
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 0.8550194501876831,
+          "std_reward_pred": 0.5453622107208653,
+          "mean_value_est": 161.4208999633789,
+          "std_value_est": 4.085184057978467
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 0.8713090538978576,
+          "std_reward_pred": 0.5654539346854411,
+          "mean_value_est": 161.91633071899415,
+          "std_value_est": 4.4106529110923045
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 0.8886269569396973,
+          "std_reward_pred": 0.638483221545164,
+          "mean_value_est": 162.03076934814453,
+          "std_value_est": 4.031660581646272
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 0.8259216964244842,
+          "std_reward_pred": 0.605799131546308,
+          "mean_value_est": 161.6285171508789,
+          "std_value_est": 4.3838708724045174
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 0.8339942693710327,
+          "std_reward_pred": 0.651971353969391,
+          "mean_value_est": 161.62472915649414,
+          "std_value_est": 4.189110309447781
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 0.7285224974155426,
+          "std_reward_pred": 0.5946881165984768,
+          "mean_value_est": 162.124072265625,
+          "std_value_est": 3.906561932538494
+        }
+      ],
+      "overall_mean_reward": 0.7997184077898661,
+      "overall_std_reward": 0.5551662998038636,
+      "cumulative_reward_at_H": 11.995776116847992,
+      "initial_value": 162.4171226501465,
+      "final_value": 162.124072265625
+    },
+    "dt=4": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 0.5923265039920806,
+          "std_reward_pred": 0.46969372814801974,
+          "mean_value_est": 162.4171226501465,
+          "std_value_est": 4.808282688900931
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 0.6740973234176636,
+          "std_reward_pred": 0.5037344615585679,
+          "mean_value_est": 162.25999298095704,
+          "std_value_est": 4.387978635852699
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 0.7033476769924164,
+          "std_reward_pred": 0.5052225757342353,
+          "mean_value_est": 162.55968856811523,
+          "std_value_est": 3.900047988734009
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 0.7359579265117645,
+          "std_reward_pred": 0.5333458578925686,
+          "mean_value_est": 162.40978088378907,
+          "std_value_est": 4.248260963406649
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 0.7790774047374726,
+          "std_reward_pred": 0.5450500751897818,
+          "mean_value_est": 162.4088050842285,
+          "std_value_est": 3.76994493793072
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 0.7700168669223786,
+          "std_reward_pred": 0.5064631300638813,
+          "mean_value_est": 162.17474594116212,
+          "std_value_est": 3.8714274365532946
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 0.8030603587627411,
+          "std_reward_pred": 0.48146499684161115,
+          "mean_value_est": 163.1216941833496,
+          "std_value_est": 3.7605824210307923
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 0.9044919192790986,
+          "std_reward_pred": 0.46544500616427265,
+          "mean_value_est": 163.43837356567383,
+          "std_value_est": 3.2209891745780492
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 0.9573279201984406,
+          "std_reward_pred": 0.5096343173315383,
+          "mean_value_est": 162.6877586364746,
+          "std_value_est": 3.5632321032303924
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 0.9029675364494324,
+          "std_reward_pred": 0.5084998533416026,
+          "mean_value_est": 162.31292037963868,
+          "std_value_est": 3.745508756115894
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 0.8120432734489441,
+          "std_reward_pred": 0.5212785019670791,
+          "mean_value_est": 161.8404853820801,
+          "std_value_est": 4.021690205785636
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 0.7343967616558075,
+          "std_reward_pred": 0.5840865979593669,
+          "mean_value_est": 161.51834716796876,
+          "std_value_est": 4.815168443245779
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 0.7057583153247833,
+          "std_reward_pred": 0.5826390494994126,
+          "mean_value_est": 161.65568313598632,
+          "std_value_est": 4.5733000154010774
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 0.6908530473709107,
+          "std_reward_pred": 0.5895764885253933,
+          "mean_value_est": 162.14933319091796,
+          "std_value_est": 4.458993308304676
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 0.6582683682441711,
+          "std_reward_pred": 0.4923843531649333,
+          "mean_value_est": 161.40478515625,
+          "std_value_est": 4.243336381011417
+        }
+      ],
+      "overall_mean_reward": 0.7615994135538737,
+      "overall_std_reward": 0.5304119846586415,
+      "cumulative_reward_at_H": 11.423991203308104,
+      "initial_value": 162.4171226501465,
+      "final_value": 161.40478515625
+    },
+    "dt=gate": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 0.5923265039920806,
+          "mean_value_est": 162.4171226501465,
+          "mean_dt_chosen": 4.3
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 0.583165955543518,
+          "mean_value_est": 162.3748764038086,
+          "mean_dt_chosen": 5.4
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 0.6819311022758484,
+          "mean_value_est": 162.9976043701172,
+          "mean_dt_chosen": 5.6
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 0.7212154030799866,
+          "mean_value_est": 163.0805320739746,
+          "mean_dt_chosen": 4.6
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 0.7525633156299592,
+          "mean_value_est": 163.49031829833984,
+          "mean_dt_chosen": 5.1
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 0.7363158404827118,
+          "mean_value_est": 163.30621261596679,
+          "mean_dt_chosen": 4.25
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 0.7884779036045074,
+          "mean_value_est": 162.98239440917968,
+          "mean_dt_chosen": 3.9
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 0.7762328743934631,
+          "mean_value_est": 162.09623184204102,
+          "mean_dt_chosen": 4.7
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 0.7613654136657715,
+          "mean_value_est": 162.23299026489258,
+          "mean_dt_chosen": 4.55
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 0.6982898771762848,
+          "mean_value_est": 161.66697006225587,
+          "mean_dt_chosen": 4.4
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 0.6656164526939392,
+          "mean_value_est": 161.46912384033203,
+          "mean_dt_chosen": 5.05
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 0.5772785604000091,
+          "mean_value_est": 160.7060516357422,
+          "mean_dt_chosen": 4.2
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 0.5693455755710601,
+          "mean_value_est": 161.2970184326172,
+          "mean_dt_chosen": 5.0
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 0.566010445356369,
+          "mean_value_est": 160.829679107666,
+          "mean_dt_chosen": 4.9
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 0.5778696000576019,
+          "mean_value_est": 160.53275527954102,
+          "mean_dt_chosen": 4.3
+        }
+      ],
+      "overall_mean_reward": 0.6698669882615408,
+      "mean_dt_overall": 4.683333333333334,
+      "dt_distribution": {
+        "1": 0.09333333333333334,
+        "2": 0.12666666666666668,
+        "3": 0.11666666666666667,
+        "4": 0.14,
+        "5": 0.13,
+        "6": 0.10333333333333333,
+        "7": 0.16333333333333333,
+        "8": 0.12666666666666668
+      }
+    }
+  },
+  "exp_008f": {
+    "dt=1": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 0.3270239531993866,
+          "std_reward_pred": 0.5659513164997314,
+          "mean_value_est": 79.32360496520997,
+          "std_value_est": 16.026869674721027
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 0.30282353758811953,
+          "std_reward_pred": 0.5901029067192131,
+          "mean_value_est": 79.23086166381836,
+          "std_value_est": 15.620123568496675
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 0.30888476967811584,
+          "std_reward_pred": 0.606833891521015,
+          "mean_value_est": 79.37843818664551,
+          "std_value_est": 15.79462988983287
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 0.28924275040626524,
+          "std_reward_pred": 0.5906890099373876,
+          "mean_value_est": 79.35474815368653,
+          "std_value_est": 15.61655932218497
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 0.28457478284835813,
+          "std_reward_pred": 0.5901806107178017,
+          "mean_value_est": 79.4093032836914,
+          "std_value_est": 15.442018624959356
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 0.2998403668403625,
+          "std_reward_pred": 0.6043314412180237,
+          "mean_value_est": 79.55207443237305,
+          "std_value_est": 15.732688268293723
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 0.30275917053222656,
+          "std_reward_pred": 0.6035083447121771,
+          "mean_value_est": 79.56215896606446,
+          "std_value_est": 15.657437027701897
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 0.32808986902236936,
+          "std_reward_pred": 0.6157377878031258,
+          "mean_value_est": 79.57192916870117,
+          "std_value_est": 15.396491529843699
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 0.3485302746295929,
+          "std_reward_pred": 0.6352555394918454,
+          "mean_value_est": 79.74260673522949,
+          "std_value_est": 15.41902929373038
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 0.35143702030181884,
+          "std_reward_pred": 0.629847211513336,
+          "mean_value_est": 79.8730567932129,
+          "std_value_est": 15.754879636567084
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 0.37627079486846926,
+          "std_reward_pred": 0.6680233981320585,
+          "mean_value_est": 79.76488151550294,
+          "std_value_est": 15.439630034050884
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 0.3752861857414246,
+          "std_reward_pred": 0.6622021720583458,
+          "mean_value_est": 79.67441673278809,
+          "std_value_est": 15.646636019044935
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 0.3854966044425964,
+          "std_reward_pred": 0.6764693524764951,
+          "mean_value_est": 79.48934669494629,
+          "std_value_est": 15.284404740996905
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 0.38862158060073854,
+          "std_reward_pred": 0.6782519487110211,
+          "mean_value_est": 79.16977767944336,
+          "std_value_est": 14.301617969792263
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 0.40618041157722473,
+          "std_reward_pred": 0.6872893568207015,
+          "mean_value_est": 79.20207290649414,
+          "std_value_est": 14.257326436603957
+        }
+      ],
+      "overall_mean_reward": 0.33833747148513793,
+      "overall_std_reward": 0.6293086410918367,
+      "cumulative_reward_at_H": 5.07506207227707,
+      "initial_value": 79.32360496520997,
+      "final_value": 79.20207290649414
+    },
+    "dt=2": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 0.3270239531993866,
+          "std_reward_pred": 0.5659513164997314,
+          "mean_value_est": 79.32360496520997,
+          "std_value_est": 16.026869674721027
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 0.30115899443626404,
+          "std_reward_pred": 0.5842063357529236,
+          "mean_value_est": 79.32694015502929,
+          "std_value_est": 15.91802808451237
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 0.3033026456832886,
+          "std_reward_pred": 0.610606835076779,
+          "mean_value_est": 79.27340049743653,
+          "std_value_est": 15.705307257780225
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 0.29128631949424744,
+          "std_reward_pred": 0.5679119707527354,
+          "mean_value_est": 79.29846000671387,
+          "std_value_est": 15.449314760341814
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 0.29175729155540464,
+          "std_reward_pred": 0.5744379066580066,
+          "mean_value_est": 79.41136665344239,
+          "std_value_est": 15.340572769476118
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 0.28548935055732727,
+          "std_reward_pred": 0.5596184185474355,
+          "mean_value_est": 79.60276145935059,
+          "std_value_est": 15.485483345797896
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 0.3030362665653229,
+          "std_reward_pred": 0.5766429060068301,
+          "mean_value_est": 79.43690986633301,
+          "std_value_est": 14.933892293932173
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 0.32412269711494446,
+          "std_reward_pred": 0.5836718649269765,
+          "mean_value_est": 79.46573524475097,
+          "std_value_est": 14.767861231565895
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 0.33731884360313413,
+          "std_reward_pred": 0.5885678393314198,
+          "mean_value_est": 79.15268173217774,
+          "std_value_est": 14.100615501201524
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 0.341652637720108,
+          "std_reward_pred": 0.5921948145429461,
+          "mean_value_est": 79.26204071044921,
+          "std_value_est": 14.21469582379214
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 0.3530424237251282,
+          "std_reward_pred": 0.6195336749617613,
+          "mean_value_est": 78.67436218261719,
+          "std_value_est": 12.985926734765306
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 0.35037614703178405,
+          "std_reward_pred": 0.6111522067491343,
+          "mean_value_est": 78.32967071533203,
+          "std_value_est": 12.375299119657274
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 0.35234705805778505,
+          "std_reward_pred": 0.6141934529359916,
+          "mean_value_est": 78.65797233581543,
+          "std_value_est": 12.789746917628023
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 0.3752834141254425,
+          "std_reward_pred": 0.6234256160592982,
+          "mean_value_est": 78.14419708251953,
+          "std_value_est": 12.257601424900566
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 0.38389397859573365,
+          "std_reward_pred": 0.5991559683449446,
+          "mean_value_est": 78.20997352600098,
+          "std_value_est": 12.558685602867358
+        }
+      ],
+      "overall_mean_reward": 0.3280728014310201,
+      "overall_std_reward": 0.5925320103024428,
+      "cumulative_reward_at_H": 4.921092021465302,
+      "initial_value": 79.32360496520997,
+      "final_value": 78.20997352600098
+    },
+    "dt=gate": {
+      "per_step": [
+        {
+          "step": 0,
+          "mean_reward_pred": 0.3270239531993866,
+          "mean_value_est": 79.32360496520997,
+          "mean_dt_chosen": 4.45
+        },
+        {
+          "step": 1,
+          "mean_reward_pred": 0.30760244131088255,
+          "mean_value_est": 79.21172981262207,
+          "mean_dt_chosen": 3.75
+        },
+        {
+          "step": 2,
+          "mean_reward_pred": 0.3125424861907959,
+          "mean_value_est": 79.19643859863281,
+          "mean_dt_chosen": 4.15
+        },
+        {
+          "step": 3,
+          "mean_reward_pred": 0.3092897653579712,
+          "mean_value_est": 79.31211853027344,
+          "mean_dt_chosen": 4.6
+        },
+        {
+          "step": 4,
+          "mean_reward_pred": 0.3182358741760254,
+          "mean_value_est": 79.58975257873536,
+          "mean_dt_chosen": 4.05
+        },
+        {
+          "step": 5,
+          "mean_reward_pred": 0.3281667649745941,
+          "mean_value_est": 79.74584693908692,
+          "mean_dt_chosen": 4.6
+        },
+        {
+          "step": 6,
+          "mean_reward_pred": 0.32560462355613706,
+          "mean_value_est": 79.64325294494628,
+          "mean_dt_chosen": 4.3
+        },
+        {
+          "step": 7,
+          "mean_reward_pred": 0.3340897440910339,
+          "mean_value_est": 79.72746200561524,
+          "mean_dt_chosen": 4.8
+        },
+        {
+          "step": 8,
+          "mean_reward_pred": 0.3512519598007202,
+          "mean_value_est": 79.88998222351074,
+          "mean_dt_chosen": 4.35
+        },
+        {
+          "step": 9,
+          "mean_reward_pred": 0.3732746481895447,
+          "mean_value_est": 80.08580169677734,
+          "mean_dt_chosen": 4.45
+        },
+        {
+          "step": 10,
+          "mean_reward_pred": 0.36914136409759524,
+          "mean_value_est": 80.13789405822754,
+          "mean_dt_chosen": 5.05
+        },
+        {
+          "step": 11,
+          "mean_reward_pred": 0.3707892894744873,
+          "mean_value_est": 80.00906791687012,
+          "mean_dt_chosen": 4.05
+        },
+        {
+          "step": 12,
+          "mean_reward_pred": 0.4107250332832336,
+          "mean_value_est": 80.13506164550782,
+          "mean_dt_chosen": 4.6
+        },
+        {
+          "step": 13,
+          "mean_reward_pred": 0.43861868381500246,
+          "mean_value_est": 79.90078582763672,
+          "mean_dt_chosen": 4.8
+        },
+        {
+          "step": 14,
+          "mean_reward_pred": 0.4675636291503906,
+          "mean_value_est": 79.72422637939454,
+          "mean_dt_chosen": 5.1
+        }
+      ],
+      "overall_mean_reward": 0.35626135071118675,
+      "mean_dt_overall": 4.473333333333334,
+      "dt_distribution": {
+        "1": 0.13666666666666666,
+        "2": 0.11333333333333333,
+        "3": 0.11666666666666667,
+        "4": 0.11666666666666667,
+        "5": 0.16666666666666666,
+        "6": 0.11,
+        "7": 0.12,
+        "8": 0.12
+      }
+    }
+  }
+}

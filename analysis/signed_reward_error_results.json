@@ -1,0 +1,63 @@
+{
+  "baseline_s1": {
+    "dt=1": {
+      "mean_signed_error": 0.001203071759082377,
+      "std_signed_error": 0.023323074723083127,
+      "median_signed_error": -0.0006774663925170898,
+      "mean_actual_reward": 1.8928943146308883,
+      "mean_predicted_reward": 1.8940973863899708,
+      "n_samples": 4000,
+      "pct_positive": 39.574999999999996,
+      "p25_signed_error": -0.002598702907562256,
+      "p75_signed_error": 0.001265794038772583
+    }
+  },
+  "exp_008d": {
+    "dt=1": {
+      "mean_signed_error": 0.018405787492753005,
+      "std_signed_error": 0.07163552530809708,
+      "median_signed_error": 0.008889305870980024,
+      "mean_actual_reward": 0.3607229445328703,
+      "mean_predicted_reward": 0.3791287320256233,
+      "n_samples": 4000,
+      "pct_positive": 61.775000000000006,
+      "p25_signed_error": -0.014526041224598885,
+      "p75_signed_error": 0.04055657843127847
+    },
+    "dt=2": {
+      "mean_signed_error": -0.5994616553184515,
+      "std_signed_error": 0.7224770068841487,
+      "median_signed_error": -0.3312916545718908,
+      "mean_actual_reward": 0.7209509944039194,
+      "mean_predicted_reward": 0.12148933908546784,
+      "n_samples": 1992,
+      "pct_positive": 7.981927710843372,
+      "p25_signed_error": -0.8976140226200223,
+      "p75_signed_error": -0.07407494334783404
+    }
+  },
+  "exp_008f": {
+    "dt=1": {
+      "mean_signed_error": -0.7098637226175051,
+      "std_signed_error": 0.7037206910959652,
+      "median_signed_error": -0.4904235452413559,
+      "mean_actual_reward": 0.9207036715100985,
+      "mean_predicted_reward": 0.2108399488925934,
+      "n_samples": 4000,
+      "pct_positive": 14.000000000000002,
+      "p25_signed_error": -1.3876740634441376,
+      "p75_signed_error": -0.025261799804866314
+    },
+    "dt=2": {
+      "mean_signed_error": -1.645412819329504,
+      "std_signed_error": 1.485023579671883,
+      "median_signed_error": -1.445169381260872,
+      "mean_actual_reward": 1.8400486222318748,
+      "mean_predicted_reward": 0.19463580290237106,
+      "n_samples": 1992,
+      "pct_positive": 4.969879518072289,
+      "p25_signed_error": -3.0538158906996253,
+      "p75_signed_error": -0.13017005478404461
+    }
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "exp_008d": {
+    "trained_actor": {
+      "dt=1": {
+        "overall_mean_reward": 0.3630744647185008,
+        "overall_std": 0.28689792355821525,
+        "ci_95_lo": 0.30929711195429166,
+        "ci_95_hi": 0.42050386303265896,
+        "cumulative_reward_at_H": 5.446116970777511,
+        "n_states": 100,
+        "per_step": [
+          {
+            "step": 0,
+            "mean_reward_pred": 0.3813709223270416,
+            "std_reward_pred": 0.35300851749403933
+          },
+          {
+            "step": 1,
+            "mean_reward_pred": 0.389954537153244,
+            "std_reward_pred": 0.36932098933540036
+          },
+          {
+            "step": 2,
+            "mean_reward_pred": 0.37213127136230467,
+            "std_reward_pred": 0.35461078923707634
+          },
+          {
+            "step": 3,
+            "mean_reward_pred": 0.3397685921192169,
+            "std_reward_pred": 0.3432697642914509
+          },
+          {
+            "step": 4,
+            "mean_reward_pred": 0.3266585862636566,
+            "std_reward_pred": 0.3514377258399481
+          },
+          {
+            "step": 5,
+            "mean_reward_pred": 0.32087159395217896,
+            "std_reward_pred": 0.3359077507233428
+          },
+          {
+            "step": 6,
+            "mean_reward_pred": 0.32075600504875185,
+            "std_reward_pred": 0.3135327025591566
+          },
+          {
+            "step": 7,
+            "mean_reward_pred": 0.33876230239868166,
+            "std_reward_pred": 0.32204018925581723
+          },
+          {
+            "step": 8,
+            "mean_reward_pred": 0.36029905557632447,
+            "std_reward_pred": 0.35120718972419585
+          },
+          {
+            "step": 9,
+            "mean_reward_pred": 0.3690650236606598,
+            "std_reward_pred": 0.37408815164991394
+          },
+          {
+            "step": 10,
+            "mean_reward_pred": 0.37326490998268125,
+            "std_reward_pred": 0.38322311565838457
+          },
+          {
+            "step": 11,
+            "mean_reward_pred": 0.3852511489391327,
+            "std_reward_pred": 0.39522083249997847
+          },
+          {
+            "step": 12,
+            "mean_reward_pred": 0.3998123490810394,
+            "std_reward_pred": 0.4078080618913366
+          },
+          {
+            "step": 13,
+            "mean_reward_pred": 0.3858702063560486,
+            "std_reward_pred": 0.3787322432802776
+          },
+          {
+            "step": 14,
+            "mean_reward_pred": 0.38228046655654907,
+            "std_reward_pred": 0.3776210747170095
+          }
+        ]
+      },
+      "dt=2": {
+        "overall_mean_reward": 1.0519313712914784,
+        "overall_std": 0.5293732969947612,
+        "ci_95_lo": 0.9494962937474251,
+        "ci_95_hi": 1.1565182016690567,
+        "cumulative_reward_at_H": 15.778970569372177,
+        "n_states": 100,
+        "per_step": [
+          {
+            "step": 0,
+            "mean_reward_pred": 0.3813709223270416,
+            "std_reward_pred": 0.35300851749403933
+          },
+          {
+            "step": 1,
+            "mean_reward_pred": 0.4945305514335632,
+            "std_reward_pred": 0.4313730400526925
+          },
+          {
+            "step": 2,
+            "mean_reward_pred": 0.627527072429657,
+            "std_reward_pred": 0.533432296089849
+          },
+          {
+            "step": 3,
+            "mean_reward_pred": 0.8158710050582886,
+            "std_reward_pred": 0.7101648802563431
+          },
+          {
+            "step": 4,
+            "mean_reward_pred": 0.9648984682559967,
+            "std_reward_pred": 0.7904536975617253
+          },
+          {
+            "step": 5,
+            "mean_reward_pred": 1.15767498254776,
+            "std_reward_pred": 0.8399988199171938
+          },
+          {
+            "step": 6,
+            "mean_reward_pred": 1.2877817606925965,
+            "std_reward_pred": 0.8325742879303971
+          },
+          {
+            "step": 7,
+            "mean_reward_pred": 1.4048108398914336,
+            "std_reward_pred": 0.8492551025893337
+          },
+          {
+            "step": 8,
+            "mean_reward_pred": 1.4198653769493104,
+            "std_reward_pred": 0.8267849798311154
+          },
+          {
+            "step": 9,
+            "mean_reward_pred": 1.3576263654232026,
+            "std_reward_pred": 0.7737480394090828
+          },
+          {
+            "step": 10,
+            "mean_reward_pred": 1.2892185461521148,
+            "std_reward_pred": 0.7656813402748469
+          },
+          {
+            "step": 11,
+            "mean_reward_pred": 1.2027346611022949,
+            "std_reward_pred": 0.7570335707098128
+          },
+          {
+            "step": 12,
+            "mean_reward_pred": 1.14735356092453,
+            "std_reward_pred": 0.6972338879328487
+          },
+          {
+            "step": 13,
+            "mean_reward_pred": 1.1120590054988861,
+            "std_reward_pred": 0.7469078121952495
+          },
+          {
+            "step": 14,
+            "mean_reward_pred": 1.1156474506855012,
+            "std_reward_pred": 0.7951344206458423
+          }
+        ]
+      }
+    },
+    "random_policy": {
+      "dt=1": {
+        "overall_mean_reward": 0.19317594035466512,
+        "overall_std": 0.17661120116354356,
+        "ci_95_lo": 0.16101540557146068,
+        "ci_95_hi": 0.2298746600369612,
+        "cumulative_reward_at_H": 2.8976391053199775,
+        "n_states": 100,
+        "per_step": [
+          {
+            "step": 0,
+            "mean_reward_pred": 0.3813709223270416,
+            "std_reward_pred": 0.35300851749403933
+          },
+          {
+            "step": 1,
+            "mean_reward_pred": 0.3656332969665527,
+            "std_reward_pred": 0.351736867236996
+          },
+          {
+            "step": 2,
+            "mean_reward_pred": 0.33684519171714783,
+            "std_reward_pred": 0.3413111390609082
+          },
+          {
+            "step": 3,
+            "mean_reward_pred": 0.299569411277771,
+            "std_reward_pred": 0.3300341269525081
+          },
+          {
+            "step": 4,
+            "mean_reward_pred": 0.2611967766284943,
+            "std_reward_pred": 0.302674181194041
+          },
+          {
+            "step": 5,
+            "mean_reward_pred": 0.2113829708099365,
+            "std_reward_pred": 0.25276433171722
+          },
+          {
+            "step": 6,
+            "mean_reward_pred": 0.18241024017333984,
+            "std_reward_pred": 0.2278030285032097
+          },
+          {
+            "step": 7,
+            "mean_reward_pred": 0.14898332118988036,
+            "std_reward_pred": 0.18618288288470175
+          },
+          {
+            "step": 8,
+            "mean_reward_pred": 0.1279046678543091,
+            "std_reward_pred": 0.1416129486351241
+          },
+          {
+            "step": 9,
+            "mean_reward_pred": 0.11285711526870727,
+            "std_reward_pred": 0.1202364525750103
+          },
+          {
+            "step": 10,
+            "mean_reward_pred": 0.10669202208518982,
+            "std_reward_pred": 0.1049470700875308
+          },
+          {
+            "step": 11,
+            "mean_reward_pred": 0.10308189511299133,
+            "std_reward_pred": 0.1022705889298066
+          },
+          {
+            "step": 12,
+            "mean_reward_pred": 0.09291832089424133,
+            "std_reward_pred": 0.08550697550012162
+          },
+          {
+            "step": 13,
+            "mean_reward_pred": 0.08688209652900696,
+            "std_reward_pred": 0.07064472462882011
+          },
+          {
+            "step": 14,
+            "mean_reward_pred": 0.07991085648536682,
+            "std_reward_pred": 0.0589849485742861
+          }
+        ]
+      },
+      "dt=2": {
+        "overall_mean_reward": 0.32421849075953163,
+        "overall_std": 0.2436663289873987,
+        "ci_95_lo": 0.2800045365055402,
+        "ci_95_hi": 0.3740249643743038,
+        "cumulative_reward_at_H": 4.863277361392975,
+        "n_states": 100,
+        "per_step": [
+          {
+            "step": 0,
+            "mean_reward_pred": 0.3813709223270416,
+            "std_reward_pred": 0.35300851749403933
+          },
+          {
+            "step": 1,
+            "mean_reward_pred": 0.4617198669910431,
+            "std_reward_pred": 0.41785739697561697
+          },
+          {
+            "step": 2,
+            "mean_reward_pred": 0.5379076087474823,
+            "std_reward_pred": 0.5075850017873185
+          },
+          {
+            "step": 3,
+            "mean_reward_pred": 0.5517197382450104,
+            "std_reward_pred": 0.5368661120894
+          },
+          {
+            "step": 4,
+            "mean_reward_pred": 0.52239515542984,
+            "std_reward_pred": 0.5297015781835199
+          },
+          {
+            "step": 5,
+            "mean_reward_pred": 0.4462902617454529,
+            "std_reward_pred": 0.45610510639505014
+          },
+          {
+            "step": 6,
+            "mean_reward_pred": 0.3665065681934357,
+            "std_reward_pred": 0.3686220764010816
+          },
+          {
+            "step": 7,
+            "mean_reward_pred": 0.2793279242515564,
+            "std_reward_pred": 0.26304909276315414
+          },
+          {
+            "step": 8,
+            "mean_reward_pred": 0.23277639627456664,
+            "std_reward_pred": 0.21351719320374798
+          },
+          {
+            "step": 9,
+            "mean_reward_pred": 0.1918589460849762,
+            "std_reward_pred": 0.15744226410015355
+          },
+          {
+            "step": 10,
+            "mean_reward_pred": 0.17874645233154296,
+            "std_reward_pred": 0.15464842119308025
+          },
+          {
+            "step": 11,
+            "mean_reward_pred": 0.17429857969284057,
+            "std_reward_pred": 0.13841286546288842
+          },
+          {
+            "step": 12,
+            "mean_reward_pred": 0.18429741978645325,
+            "std_reward_pred": 0.1617143761733723
+          },
+          {
+            "step": 13,
+            "mean_reward_pred": 0.18468936562538146,
+            "std_reward_pred": 0.15602361504839424
+          },
+          {
+            "step": 14,
+            "mean_reward_pred": 0.16937215566635133,
+            "std_reward_pred": 0.12182560946932446
+          }
+        ]
+      }
+    }
+  },
+  "exp_008f": {
+    "trained_actor": {
+      "dt=1": {
+        "overall_mean_reward": 0.2540164078871409,
+        "overall_std": 0.49020379587665747,
+        "ci_95_lo": 0.1629947533051173,
+        "ci_95_hi": 0.35801564804514224,
+        "cumulative_reward_at_H": 3.8102461183071137,
+        "n_states": 100,
+        "per_step": [
+          {
+            "step": 0,
+            "mean_reward_pred": 0.25034547328948975,
+            "std_reward_pred": 0.4653146345109351
+          },
+          {
+            "step": 1,
+            "mean_reward_pred": 0.24164340376853943,
+            "std_reward_pred": 0.4669216242036221
+          },
+          {
+            "step": 2,
+            "mean_reward_pred": 0.24477795481681824,
+            "std_reward_pred": 0.4844228497237411
+          },
+          {
+            "step": 3,
+            "mean_reward_pred": 0.24077574729919435,
+            "std_reward_pred": 0.4984349124302513
+          },
+          {
+            "step": 4,
+            "mean_reward_pred": 0.24013293862342835,
+            "std_reward_pred": 0.49235101411731697
+          },
+          {
+            "step": 5,
+            "mean_reward_pred": 0.23530574083328248,
+            "std_reward_pred": 0.4828972410661679
+          },
+          {
+            "step": 6,
+            "mean_reward_pred": 0.24614102244377137,
+            "std_reward_pred": 0.4922272597692495
+          },
+          {
+            "step": 7,
+            "mean_reward_pred": 0.24951603412628173,
+            "std_reward_pred": 0.4969651452993655
+          },
+          {
+            "step": 8,
+            "mean_reward_pred": 0.2520733869075775,
+            "std_reward_pred": 0.52540745551949
+          },
+          {
+            "step": 9,
+            "mean_reward_pred": 0.25280972957611086,
+            "std_reward_pred": 0.5410808594518527
+          },
+          {
+            "step": 10,
+            "mean_reward_pred": 0.25227164387702944,
+            "std_reward_pred": 0.5463239055377067
+          },
+          {
+            "step": 11,
+            "mean_reward_pred": 0.2597053337097168,
+            "std_reward_pred": 0.5525452772639559
+          },
+          {
+            "step": 12,
+            "mean_reward_pred": 0.27331085920333864,
+            "std_reward_pred": 0.5703324289294897
+          },
+          {
+            "step": 13,
+            "mean_reward_pred": 0.2793630290031433,
+            "std_reward_pred": 0.568139303942859
+          },
+          {
+            "step": 14,
+            "mean_reward_pred": 0.2920738208293915,
+            "std_reward_pred": 0.5706771469763319
+          }
+        ]
+      },
+      "dt=2": {
+        "overall_mean_reward": 0.24911288380622865,
+        "overall_std": 0.4928226080214801,
+        "ci_95_lo": 0.15637480749289204,
+        "ci_95_hi": 0.352376033548514,
+        "cumulative_reward_at_H": 3.73669325709343,
+        "n_states": 100,
+        "per_step": [
+          {
+            "step": 0,
+            "mean_reward_pred": 0.25034547328948975,
+            "std_reward_pred": 0.4653146345109351
+          },
+          {
+            "step": 1,
+            "mean_reward_pred": 0.23661330342292786,
+            "std_reward_pred": 0.47199388463460507
+          },
+          {
+            "step": 2,
+            "mean_reward_pred": 0.23613965153694152,
+            "std_reward_pred": 0.48770474185765017
+          },
+          {
+            "step": 3,
+            "mean_reward_pred": 0.23895228624343873,
+            "std_reward_pred": 0.4898818302238519
+          },
+          {
+            "step": 4,
+            "mean_reward_pred": 0.23125632882118224,
+            "std_reward_pred": 0.4851830974380141
+          },
+          {
+            "step": 5,
+            "mean_reward_pred": 0.23041059374809264,
+            "std_reward_pred": 0.48789227893538123
+          },
+          {
+            "step": 6,
+            "mean_reward_pred": 0.23069635391235352,
+            "std_reward_pred": 0.4871769287944274
+          },
+          {
+            "step": 7,
+            "mean_reward_pred": 0.23780479311943054,
+            "std_reward_pred": 0.4967707710858073
+          },
+          {
+            "step": 8,
+            "mean_reward_pred": 0.2502404594421387,
+            "std_reward_pred": 0.5189030808140075
+          },
+          {
+            "step": 9,
+            "mean_reward_pred": 0.25750433444976806,
+            "std_reward_pred": 0.5390234172456926
+          },
+          {
+            "step": 10,
+            "mean_reward_pred": 0.25968178749084475,
+            "std_reward_pred": 0.5552938506980986
+          },
+          {
+            "step": 11,
+            "mean_reward_pred": 0.2578866183757782,
+            "std_reward_pred": 0.5534374802027243
+          },
+          {
+            "step": 12,
+            "mean_reward_pred": 0.26463242530822756,
+            "std_reward_pred": 0.5619587999035847
+          },
+          {
+            "step": 13,
+            "mean_reward_pred": 0.27414103865623474,
+            "std_reward_pred": 0.5760190536121214
+          },
+          {
+            "step": 14,
+            "mean_reward_pred": 0.2803878092765808,
+            "std_reward_pred": 0.5870147989343971
+          }
+        ]
+      }
+    },
+    "random_policy": {
+      "dt=1": {
+        "overall_mean_reward": 0.09490731843312582,
+        "overall_std": 0.19948981912576202,
+        "ci_95_lo": 0.05842569983204207,
+        "ci_95_hi": 0.1377347773313522,
+        "cumulative_reward_at_H": 1.4236097764968871,
+        "n_states": 100,
+        "per_step": [
+          {
+            "step": 0,
+            "mean_reward_pred": 0.25034547328948975,
+            "std_reward_pred": 0.4653146345109351
+          },
+          {
+            "step": 1,
+            "mean_reward_pred": 0.21292705297470094,
+            "std_reward_pred": 0.4454989076289384
+          },
+          {
+            "step": 2,
+            "mean_reward_pred": 0.18687843203544616,
+            "std_reward_pred": 0.4286166274413816
+          },
+          {
+            "step": 3,
+            "mean_reward_pred": 0.15504260182380677,
+            "std_reward_pred": 0.3976672767099487
+          },
+          {
+            "step": 4,
+            "mean_reward_pred": 0.12506548166275025,
+            "std_reward_pred": 0.3524673723508746
+          },
+          {
+            "step": 5,
+            "mean_reward_pred": 0.09465479135513305,
+            "std_reward_pred": 0.2732890712226363
+          },
+          {
+            "step": 6,
+            "mean_reward_pred": 0.06998085498809814,
+            "std_reward_pred": 0.19124363697986418
+          },
+          {
+            "step": 7,
+            "mean_reward_pred": 0.0600189471244812,
+            "std_reward_pred": 0.14941565137888452
+          },
+          {
+            "step": 8,
+            "mean_reward_pred": 0.04412370324134827,
+            "std_reward_pred": 0.09431745538064677
+          },
+          {
+            "step": 9,
+            "mean_reward_pred": 0.034511162042617796,
+            "std_reward_pred": 0.06555201366898993
+          },
+          {
+            "step": 10,
+            "mean_reward_pred": 0.039324177503585814,
+            "std_reward_pred": 0.09253844867295599
+          },
+          {
+            "step": 11,
+            "mean_reward_pred": 0.03696935415267944,
+            "std_reward_pred": 0.08468984926847853
+          },
+          {
+            "step": 12,
+            "mean_reward_pred": 0.03784682273864746,
+            "std_reward_pred": 0.09166263099701029
+          },
+          {
+            "step": 13,
+            "mean_reward_pred": 0.037486696243286134,
+            "std_reward_pred": 0.09223866915965924
+          },
+          {
+            "step": 14,
+            "mean_reward_pred": 0.03843422532081604,
+            "std_reward_pred": 0.0859554278788818
+          }
+        ]
+      },
+      "dt=2": {
+        "overall_mean_reward": 0.10577574594815572,
+        "overall_std": 0.21986943081222274,
+        "ci_95_lo": 0.06533689349889756,
+        "ci_95_hi": 0.15275118162631987,
+        "cumulative_reward_at_H": 1.586636189222336,
+        "n_states": 100,
+        "per_step": [
+          {
+            "step": 0,
+            "mean_reward_pred": 0.25034547328948975,
+            "std_reward_pred": 0.4653146345109351
+          },
+          {
+            "step": 1,
+            "mean_reward_pred": 0.20898717284202575,
+            "std_reward_pred": 0.44148805080091164
+          },
+          {
+            "step": 2,
+            "mean_reward_pred": 0.19581424832344055,
+            "std_reward_pred": 0.45026355896453535
+          },
+          {
+            "step": 3,
+            "mean_reward_pred": 0.17543864488601685,
+            "std_reward_pred": 0.417090043340166
+          },
+          {
+            "step": 4,
+            "mean_reward_pred": 0.1444307017326355,
+            "std_reward_pred": 0.3666022951316172
+          },
+          {
+            "step": 5,
+            "mean_reward_pred": 0.10606485843658447,
+            "std_reward_pred": 0.27632774874039684
+          },
+          {
+            "step": 6,
+            "mean_reward_pred": 0.08759725928306579,
+            "std_reward_pred": 0.24931548023885575
+          },
+          {
+            "step": 7,
+            "mean_reward_pred": 0.06692458987236023,
+            "std_reward_pred": 0.1627819328459407
+          },
+          {
+            "step": 8,
+            "mean_reward_pred": 0.057934017181396485,
+            "std_reward_pred": 0.1300095229930254
+          },
+          {
+            "step": 9,
+            "mean_reward_pred": 0.052649271488189694,
+            "std_reward_pred": 0.1099488038064924
+          },
+          {
+            "step": 10,
+            "mean_reward_pred": 0.05165416717529297,
+            "std_reward_pred": 0.12879050913630427
+          },
+          {
+            "step": 11,
+            "mean_reward_pred": 0.05222199440002442,
+            "std_reward_pred": 0.17154588980992028
+          },
+          {
+            "step": 12,
+            "mean_reward_pred": 0.04822339653968811,
+            "std_reward_pred": 0.15382901076602126
+          },
+          {
+            "step": 13,
+            "mean_reward_pred": 0.04490164637565613,
+            "std_reward_pred": 0.12033500084481294
+          },
+          {
+            "step": 14,
+            "mean_reward_pred": 0.04344874739646912,
+            "std_reward_pred": 0.10964141075009551
+          }
+        ]
+      }
+    }
+  }
+}

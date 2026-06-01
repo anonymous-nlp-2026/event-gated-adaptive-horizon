@@ -1,0 +1,178 @@
+{
+  "group_a": {
+    "label": "CIVO-specific",
+    "n_collapsed": 2,
+    "n_healthy": 4,
+    "experiments": {
+      "exp_001_baseline": {
+        "max_nve": 1.0,
+        "label": "healthy"
+      },
+      "exp_008a_no_subsample_dt2": {
+        "max_nve": 1.719129,
+        "label": "healthy"
+      },
+      "exp_008e_v3_walker_s1": {
+        "max_nve": 1.928484,
+        "label": "healthy"
+      },
+      "exp_008f_no_dt_embed_subsample_on_h8": {
+        "max_nve": 1.019814,
+        "label": "healthy"
+      },
+      "exp_006_fixed_dt2": {
+        "max_nve": 4.836189,
+        "label": "collapsed"
+      },
+      "exp_008d_subsample_on_h8": {
+        "max_nve": 4.129242,
+        "label": "collapsed"
+      }
+    },
+    "thresholds": {
+      "1.3": {
+        "tp": 2,
+        "tn": 2,
+        "fp": 2,
+        "fn": 0,
+        "accuracy": 0.6667,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6667
+      },
+      "1.5": {
+        "tp": 2,
+        "tn": 2,
+        "fp": 2,
+        "fn": 0,
+        "accuracy": 0.6667,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6667
+      },
+      "1.7": {
+        "tp": 2,
+        "tn": 2,
+        "fp": 2,
+        "fn": 0,
+        "accuracy": 0.6667,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6667
+      },
+      "2.0": {
+        "tp": 2,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "auroc": 1.0,
+    "auroc_ci_95": [
+      1.0,
+      1.0
+    ],
+    "bootstrap_n": 1000,
+    "bootstrap_valid_samples": 909,
+    "ci_note": "N=6"
+  },
+  "group_b": {
+    "label": "all-failure",
+    "n_collapsed": 5,
+    "n_healthy": 4,
+    "experiments": {
+      "exp_001_baseline": {
+        "max_nve": 1.0,
+        "label": "healthy"
+      },
+      "exp_008a_no_subsample_dt2": {
+        "max_nve": 1.719129,
+        "label": "healthy"
+      },
+      "exp_008e_v3_walker_s1": {
+        "max_nve": 1.928484,
+        "label": "healthy"
+      },
+      "exp_008f_no_dt_embed_subsample_on_h8": {
+        "max_nve": 1.019814,
+        "label": "healthy"
+      },
+      "exp_006_fixed_dt2": {
+        "max_nve": 4.836189,
+        "label": "collapsed"
+      },
+      "exp_008d_subsample_on_h8": {
+        "max_nve": 4.129242,
+        "label": "collapsed"
+      },
+      "exp_007_fixed_dt4": {
+        "max_nve": 1.223615,
+        "label": "collapsed"
+      },
+      "exp_008c_no_subsample_dt2_h8": {
+        "max_nve": 1.223399,
+        "label": "collapsed"
+      },
+      "exp_008e_v3_walker_s2": {
+        "max_nve": 3.780128,
+        "label": "collapsed"
+      }
+    },
+    "thresholds": {
+      "1.3": {
+        "tp": 3,
+        "tn": 2,
+        "fp": 2,
+        "fn": 2,
+        "accuracy": 0.5556,
+        "precision": 0.6,
+        "recall": 0.6,
+        "f1": 0.6
+      },
+      "1.5": {
+        "tp": 3,
+        "tn": 2,
+        "fp": 2,
+        "fn": 2,
+        "accuracy": 0.5556,
+        "precision": 0.6,
+        "recall": 0.6,
+        "f1": 0.6
+      },
+      "1.7": {
+        "tp": 3,
+        "tn": 2,
+        "fp": 2,
+        "fn": 2,
+        "accuracy": 0.5556,
+        "precision": 0.6,
+        "recall": 0.6,
+        "f1": 0.6
+      },
+      "2.0": {
+        "tp": 3,
+        "tn": 4,
+        "fp": 0,
+        "fn": 2,
+        "accuracy": 0.7778,
+        "precision": 1.0,
+        "recall": 0.6,
+        "f1": 0.75
+      }
+    },
+    "auroc": 0.8,
+    "auroc_ci_95": [
+      0.4,
+      1.0
+    ],
+    "bootstrap_n": 1000,
+    "bootstrap_valid_samples": 994,
+    "ci_note": "N=9"
+  },
+  "recommended_threshold": 2.0,
+  "notes": "v2: exp_007 (dt=4 actor-credit) and exp_008c (H=8 underfitting) moved from CIVO-collapsed to all-failure group per reviewer. Group A = CIVO-specific collapse only. Group B = all failure modes including non-CIVO."
+}
