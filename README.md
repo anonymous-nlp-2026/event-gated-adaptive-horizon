@@ -1,4 +1,4 @@
-# Supplementary Code: Conditioning-Induced Value Overestimation in Imagination-Based Actor-Critic
+# Why Temporal Abstraction Can Fail in Imagination-Based RL: A Diagnostic Analysis of Variable-Rate DreamerV3
 
 Source code and analysis scripts for reproducing the experiments in the paper.
 
